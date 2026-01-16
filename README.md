@@ -1,36 +1,14 @@
-# Overview
+# Desktop FS MCP
 
-Windows FS MCP is a Tauri (Rust) desktop app providing an MCP filesystem server for ChatGPT Desktop. It features multiple folder roots, active toggles, per-folder CRUD permissions, audit logs, and security controls.
+## Overview
+
+Desktop FS MCP is a cross-platform file storage management application designed to work seamlessly across various operating systems. This application utilizes modern design trends and technology to provide users with a reliable and efficient file management experience.
 
 ## Features
-- Multiple folder roots
-- Active toggles
-- Per-folder CRUD permissions
-- Audit logs
-- Security controls
+- **Cross-Platform**: Fully functional on multiple operating systems including Windows, macOS, and Linux.
+- **UI Framework**: Built with **Svelte**, ensuring a fast and responsive user interface.
+- **Database Storage**: Utilizes **SQLite** for efficient and lightweight data storage.
 
-## Architecture
-- Tauri UI
-- Rust core
-- MCP transport
+## Getting Started
 
-## Configuration
-This app integrates with the ChatGPT Desktop MCP configuration.
-
-## Development
-- **Prerequisites**: Details to be added
-- **Run commands**: Placeholders for run commands
-
-## Security Notes
-- **Least privilege**: Follow the principle of least privilege.
-- **Path traversal**: Safeguards against path traversal attacks.
-- **Symlink policy**: Defines the rules for handling symlinks.
-
-## Roadmap
-Detailed roadmap of the product.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Placeholder for license information.
+To get started with Desktop FS MCP, follow the instructions in the [installation guide](docs/INSTALL.md).
