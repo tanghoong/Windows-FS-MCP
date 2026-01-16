@@ -35,7 +35,7 @@ Releases are named using the version number prefixed with `v`:
 
 ## Changelog
 
-All notable changes are documented in the [CHANGELOG.md](./CHANGELOG.md) file following the [Keep a Changelog](https://keepachangelog.com/) format.
+All notable changes are documented in the [CHANGELOG.md](../CHANGELOG.md) file following the [Keep a Changelog](https://keepachangelog.com/) format.
 
 ## Release Process
 
