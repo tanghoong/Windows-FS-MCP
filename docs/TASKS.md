@@ -3,11 +3,11 @@
 > This task list is organized by milestones. Each item can become a GitHub Issue.
 
 ## Milestone 0 — Repo & Foundations
-- [ ] Add LICENSE
-- [ ] Add SECURITY.md (vuln reporting)
-- [ ] Add CONTRIBUTING.md (optional)
-- [ ] Define SemVer + release naming
-- [ ] Add basic CI (format/lint/test)
+- [x] Add LICENSE
+- [x] Add SECURITY.md (vuln reporting)
+- [x] Add CONTRIBUTING.md (optional)
+- [x] Define SemVer + release naming
+- [x] Add basic CI (format/lint/test)
 
 ## Milestone 1 — Data Model + SQLite
 - [ ] Define SQLite schema:
